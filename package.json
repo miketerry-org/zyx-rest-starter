@@ -1,6 +1,6 @@
 {
   "name": "zyx-rest-starter",
-  "version": "0.20.0",
+  "version": "0.20.1",
   "description": "A REST API starter built with zyx packages",
   "main": "index.js",
   "scripts": {
@@ -19,13 +19,13 @@
   "author": "Mike Terry",
   "license": "MIT",
   "dependencies": {
-    "zyx-base": "^0.20.0",
-    "zyx-env": "^0.20.0",
-    "zyx-mongodb": "^0.20.0",
-    "zyx-nodemailer": "^0.20.0",
-    "zyx-rest": "^0.20.0",
-    "zyx-schema": "^0.20.2",
-    "zyx-system": "^0.20.0"
+    "zyx-base": "^0.20.6",
+    "zyx-env": "^0.21.3",
+    "zyx-mongodb": "^0.20.4",
+    "zyx-nodemailer": "^0.20.3",
+    "zyx-rest": "^0.20.4",
+    "zyx-schema": "^0.20.5",
+    "zyx-system": "^0.20.3"
   },
   "devDependencies": {
     "zyx-test-api": "^0.20.1"
